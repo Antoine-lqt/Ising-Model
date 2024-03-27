@@ -1,0 +1,28 @@
+2
+100
+600
+1
+1e-21
+0
+13.0e-7 
+1.380649e-23
+2
+1
+10
+10000000
+
+
+
+// Numéro devant correspond à l'indexation du vecteur Variables 
+0- Taille de la grille 
+1- Température minimale (en Kelvin)
+2- Température maximale (en Kelvin) 
+3- Pas de température 
+4- J
+5- B
+6- mu
+7- Constante de Boltzmann 
+8- Dimension du système (2D ou 3D) 
+9- Affichage de la grille (2D ou 3D) : oui = 0 ; non = 1
+10- Température à afficher 
+11- Nombre d'itérations par température
